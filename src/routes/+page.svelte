@@ -1,4 +1,5 @@
 <script>
+	import Leaderboard from "../components/Leaderboard.svelte";
 	import Progress from "../components/Progress.svelte";
 </script>
 
@@ -8,10 +9,15 @@
 </div>
 
 <Progress />
+<Leaderboard />
 
 <style>
 	* {
 		font-family: Arial, sans-serif;
+	}
+
+	:global(body) {
+		font-family: Arial, Helvetica, sans-serif;
 	}
 	div {
 		margin: 10;

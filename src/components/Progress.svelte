@@ -1,4 +1,5 @@
 <script>
+	import db from "$lib/db";
 	let progress = 30;
 </script>
 
