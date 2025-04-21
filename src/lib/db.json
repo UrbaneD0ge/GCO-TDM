@@ -1,0 +1,34 @@
+{
+    "WAs": [
+        {
+            "name": "Brenden Thompson",
+            "email": "bthompson@gacommuteoptions.com",
+            "profilePictureUrl": "https://example.com/profiles/alice.jpg",
+            "partners": 28
+        },
+        {
+            "name": "Aaron Amos",
+            "email": "aamos@gacommuteoptions.com",
+            "profilePictureUrl": "https://example.com/profiles/bob.jpg",
+            "partners": 34
+        },
+        {
+            "name": "Shayla Cato",
+            "email": "scato@gacommuteoptions.com",
+            "profilePictureUrl": "https://example.com/profiles/charlie.jpg",
+            "partners": 22
+        },
+        {
+            "name": "Courtney Tabor",
+            "email": "ctabor@gacommuteoptions.com",
+            "profilePictureUrl": "https://example.com/profiles/diana.jpg",
+            "partners": 30
+        },
+        {
+            "name": "Tiffany Moore",
+            "email": "tmoore@gacommuteoptions.com",
+            "profilePictureUrl": "https://example.com/profiles/tiffany.jpg",
+            "partners": 18
+        }
+    ]
+}
